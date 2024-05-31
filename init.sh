@@ -1,9 +1,8 @@
 #!/bin/bash
 
 fcitx5 -d
-dwmblocks &
+# dwmblocks &
 picom -b
-
 ./wallpaper.sh &
-./chkUpdate &
-./chkVol & # Ensure show vol
+# ./chkUpdate &
+# ./chkVol & # Ensure show vol

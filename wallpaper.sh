@@ -2,7 +2,7 @@
 
 shopt -s nullglob
  
-cd ./background
+cd ~/.config/variety/Downloaded/Bing/
 
 while true; do
 	files=()
